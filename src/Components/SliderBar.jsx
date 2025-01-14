@@ -76,8 +76,8 @@ const SliderBar = () => {
           {/* "Recent" and "Chat History" Section */}
         </div>
         {extended && (
+          <h1 className='text-xl font-bold text-white p-2'>Recent</h1>
           <div className='w-full flex flex-col gap-4 overflow-y-scroll h-1/2 result-scrollbar'>
-            <h1 className='text-xl font-bold text-white p-2'>Recent</h1>
             {ContextData.prevPromot.map((item, index) => (
               <div
                 onClick={() => {toggleExtended();loadPromot(item)}}
