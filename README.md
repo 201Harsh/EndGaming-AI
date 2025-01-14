@@ -30,7 +30,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-If you have any questions or feedback, please contact me at [201harshs](https://github.com/201harshs).
+If you have any questions or feedback, please contact me at [201harshs](https://www.instagram.com/201harshs/).
 
 ## Acknowledgements
 
@@ -41,6 +41,6 @@ If you have any questions or feedback, please contact me at [201harshs](https://
 
 ## Credits
 
-This project was created by [201harshs](https://github.com/201harshs).
+This project was created by [201harshs](https://www.instagram.com/201harshs/).
 
 ## Made with ❤️ by [201harshs](https://github.com/201harshs).
